@@ -1,0 +1,65 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrosel-um {
+    object-fit: cover;
+    object-position: 0 80%;
+    height: 400px;
+}
+
+.imagem-carrosel-dois {
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred !important;    
+}
+
+div .botao-cor-especial {
+    background-color: darkred;
+    border: 1px solid darkred;
+    color: white;    
+}
+
+div .botao-cor-especial-modal {
+    background-color: darkred;
+    border: 1px solid darkred;
+    color: white; 
+}
+
+div .botao-cor-especial:hover {
+    width: 130px;
+    height: 40px;
+    background-color: rgb(222, 46, 175);    
+    color: white;    
+    border: none;
+    cursor: pointer;    
+}
+
+div.borda-cor-especial {
+    border: 1px solid rgb(89, 55, 200);
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    /*object-position: 0 80%;*/
+    height: 200px;
+}
+
+
+span {
+    color: white;
+}
+
+p a span:hover {
+    color: silver;
+    text-decoration: underline silver;
+}
+
